@@ -1,0 +1,41 @@
+.left-side{
+	flex-basis:40%;
+	background-color: rgb(174,116,204); 
+}
+
+.rigth-side{
+	flex-basis:80%;
+	background-color: rgb(207,171,108);
+}
+
+.img-style{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.all{
+	font-family: 'Roboto Mono', monospace;
+	display: flex;
+	height: 100%;
+}
+
+.centt {
+    text-align: center;
+}
+
+.fa{
+	font-size: 100px;
+}
+
+.social{
+    flex-wrap:  wrap;
+    display:  flex;
+    justify-content: space-evenly;
+}
+
+body{
+    height: 100vh;
+
+}
